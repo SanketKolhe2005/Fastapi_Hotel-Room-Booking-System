@@ -56,14 +56,30 @@ It simulates a real-world hotel booking system with features like room managemen
 ---
 
 ## 📂 Project Structure
+
 Hotel_Room_Booking_System/
-|
-│── main.py
-|
-│── requirements.txt
-|
-│── screenshots/
-│ ├── Q1_home.png
-│ ├── Q2_rooms.png
-│ ├── ...
-│ └── Q20_browse.png
+│
+├── main.py
+├── requirements.txt
+│
+└── screenshots/
+    ├── Q1_home.png
+    ├── Q2_rooms.png
+    ├── Q3_get_room.png
+    ├── Q4_bookings.png
+    ├── Q5_summary.png
+    ├── Q6_validation.png
+    ├── Q7_helpers.png
+    ├── Q8_create_booking.png
+    ├── Q9_discount.png
+    ├── Q10_filter.png
+    ├── Q11_add_room.png
+    ├── Q12_update_room.png
+    ├── Q13_delete_room.png
+    ├── Q14_cart_add.png
+    ├── Q15_checkout.png
+    ├── Q16_search.png
+    ├── Q17_sort.png
+    ├── Q18_pagination.png
+    ├── Q19_booking_search.png
+    └── Q20_browse.png
