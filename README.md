@@ -71,5 +71,7 @@ Backend project structuring
 📌 Author
 
 Name: Sanket Kolhe
+
 Internship: Feb 2026 FastAPI Internship
+
 Organization: Innomatics Research Labs
